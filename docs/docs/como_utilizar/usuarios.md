@@ -22,7 +22,11 @@ Os termos de pesquisa devem ser registrados no Git ou em uma tabela no banco de 
 
 * Se os termos de pesquisa são relativamente poucos e têm a expectativa de mudanças infrequentes, deixar no yaml (Git).
 * Se os termos de pesquisa são muito numerosos e têm a expectativa de mudarem constantemente, usar uma tabela no banco de dados. Assim, uma outra DAG ou processo pode manter essa tabela sempre atualizada, sem que nada precise mudar no Git.
-
+ 
+---
 ### Usuários externos (de fora do MGI)
 
 Usuários de órgãos públicos que não sejam unidades do Ministério da Gestão e da Inovação em Serviços Públicos poderão enviar dúvidas ou comentários ao endereço [ro-dou-suporte@gestao.gov.br](mailto:ro-dou-suporte@gestao.gov.br).
+
+<span style="color:red">**Atenção:**</span> O suporte do RO-DOU é exclusivo para unidades internas do MGI. Para entidade externa ao Ministério, não realizamos a gestão direta de IMPLANTAÇÃO e BUSCAS.
+
