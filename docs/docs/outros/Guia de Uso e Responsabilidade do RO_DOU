@@ -1,0 +1,15 @@
+# Guia de Uso e Responsabilidade do RO-DOU
+
+Nesta seção, detalhamos como funciona a nossa licença livre, as responsabilidades de quem utiliza ou redistribui o código e as orientações sobre o tratamento de dados e suporte oficial.
+
+1. **[Natureza do Software] O RO-DOU é um software livre licenciado sob a GNU GPL v3.0. Ele é entregue à comunidade “como está”, o que significa que seu uso, funcionamento e adequação a finalidades específicas ocorrem por conta e risco do usuário, não havendo garantias de ausência de erros.
+
+1. **[Fontes de Dados] O sistema funciona como um automatizador de leitura de fontes públicas (como a Imprensa Nacional e Diários Oficiais). Como não temos ingerência sobre o que esses órgãos publicam, a responsabilidade pelo conteúdo original, dados sensíveis ou eventuais erros na fonte primária é do órgão publicador. Recomendamos sempre conferir a informação no diário oficial original.
+
+1. **[Apoio e Suporte] Nosso suporte oficial é focado nas unidades do MGI previamente definidas. Para entusiastas, outros órgãos e a comunidade em geral, o apoio é feito de forma colaborativa através da nossa documentação e dos canais abertos no GitHub, sem obrigatoriedade de prazos de atendimento.
+
+1. **[Uso por Terceiros] Incentivamos que outros órgãos criem suas próprias instâncias do RO-DOU! Ao fazer isso, cada órgão assume a gestão de sua instalação, sendo o responsável direto pela manutenção e pela proteção de dados (LGPD) em seu ambiente local.
+
+1. **[Responsabilidade e Dados] O MGI não acessa, opera ou controla dados em instalações feitas por terceiros. Assim, não nos responsabilizamos por perdas de dados, incidentes de segurança ou danos decorrentes da operação do software em infraestruturas que não estejam sob nossa gestão direta.
+
+1. **[Identidade Institucional] O uso do código é livre, mas as marcas "RO-DOU", "MGI" e símbolos oficiais são protegidos. Pedimos que não utilizem esses nomes de forma que sugira um apoio oficial ou vínculo com o Ministério em projetos derivados, evitando confusões de identidade institucional.
